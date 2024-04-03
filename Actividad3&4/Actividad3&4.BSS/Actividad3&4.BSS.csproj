@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Actividad3_4.BSS</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Actividad3&amp;4.DAL\Actividad3&amp;4.DAL.csproj" />
+    <ProjectReference Include="..\Actividad3&amp;4.MODELOS\Actividad3&amp;4.MODELOS.csproj" />
+  </ItemGroup>
+
+</Project>
